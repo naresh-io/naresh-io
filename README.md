@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm [Naresh](https://naresh.io)
 
-I'm a passionate and self-taught full-stack Web Developer with 7+ years of experience that loves working with [Laravel](https://laravel.com), [Vue](https://vuejs.org) & [Tailwind CSS](https://tailwindcss.com)
+I'm a passionate and self-taught full-stack Web Developer with 8+ years of experience that loves working with [Laravel](https://laravel.com), [Vue](https://vuejs.org) & [Tailwind CSS](https://tailwindcss.com)
 
 ### Let's Connect 🔗
 
