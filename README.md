@@ -8,4 +8,4 @@ I'm a passionate and self-taught full-stack Web Developer with 7+ years of exper
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2)](https://twitter.com/naresh_io)
 
-<img width="1456" alt="Naresh's Skills" src="https://github.com/naresh-io/naresh-io/assets/20286571/00ab05af-1495-4472-a9e2-f4eac88f600c">
+<img width="1456" alt="Naresh's Skills" src="https://github.com/user-attachments/assets/a76e56a6-9349-447d-80c7-a3496493babc">
